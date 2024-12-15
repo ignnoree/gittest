@@ -6,5 +6,5 @@ for i in items:
         freq_dict[i] = 1
     else:
         freq_dict[i] += 1
-
-print(freq_dict)
+wh=[23]
+print(freq_dict) 
